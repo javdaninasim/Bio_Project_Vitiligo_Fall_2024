@@ -1,0 +1,12 @@
+ID	Gene.symbol	Gene.title	log2(fold change)	-log10(Pvalue)
+ILMN_1674063	OAS2	2'-5'-oligoadenylate synthetase 2	2.954	5.735
+ILMN_1691570	METTL5	methyltransferase like 5	1.854	5.646
+ILMN_1695893			-2.257	5.899
+ILMN_1724230			2.463	5.652
+ILMN_1791759	CXCL10	C-X-C motif chemokine ligand 10	6.119	9.319
+ILMN_1793729	C15orf39	chromosome 15 open reading frame 39	-1.71	6.572
+ILMN_1802906			3.405	5.792
+ILMN_1812031	PALM	paralemmin	-2.561	5.609
+ILMN_1892403			-2.173	6.021
+ILMN_2356895	MRPL42	mitochondrial ribosomal protein L42	2.207	5.988
+ILMN_2400512	PRKCSH	protein kinase C substrate 80K-H	-2.245	5.639

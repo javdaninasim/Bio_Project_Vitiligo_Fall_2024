@@ -1,0 +1,105 @@
+ID	Gene.symbol	Gene.title	log2(fold change)	-log10(Pvalue)
+ILMN_1652955			-2.227	9.228
+ILMN_1653205			-2.552	9.291
+ILMN_1655011	SERF1B	small EDRK-rich factor 1B	-1.507	7.425
+ILMN_1655422	RPL17	ribosomal protein L17	-1.892	7.904
+ILMN_1655444			-1.605	8.589
+ILMN_1655710			-2.356	6.776
+ILMN_1656292			-2.087	8.743
+ILMN_1658283			-1.866	9.658
+ILMN_1658416	MRPS18C	mitochondrial ribosomal protein S18C	-1.873	8.477
+ILMN_1659405			-2.264	8.17
+ILMN_1661174			-2.01	7.803
+ILMN_1661945	SLIRP	SRA stem-loop interacting RNA binding protein	-1.892	8.654
+ILMN_1664167	RPF2	ribosome production factor 2 homolog	-2.114	8.745
+ILMN_1665994	PMEL	premelanosome protein	2.647	7.339
+ILMN_1666471	UQCRQ	ubiquinol-cytochrome c reductase complex III subunit VII	-1.669	7.156
+ILMN_1671158	MRPL13	mitochondrial ribosomal protein L13	-1.515	7.199
+ILMN_1677262			-2.102	7.241
+ILMN_1679587			-1.87	6.48
+ILMN_1679800	BRIX1	BRX1, biogenesis of ribosomes	-1.64	6.692
+ILMN_1679838	TCEAL9	transcription elongation factor A like 9	-1.958	8.384
+ILMN_1680967	SARNP	SAP domain containing ribonucleoprotein	-1.711	9.683
+ILMN_1682098	PSMA4	proteasome subunit alpha 4	-1.674	7.882
+ILMN_1682857	NDUFAF2	NADH:ubiquinone oxidoreductase complex assembly factor 2	-2.048	8.558
+ILMN_1683562	SNRPG	small nuclear ribonucleoprotein polypeptide G	-1.84	8.673
+ILMN_1685378			-1.836	6.705
+ILMN_1687556	DAPL1	death associated protein like 1	-2.425	8.479
+ILMN_1690307	TPRKB	TP53RK binding protein	-1.519	6.747
+ILMN_1691570	METTL5	methyltransferase like 5	-1.622	7.862
+ILMN_1694233			-1.6	9.588
+ILMN_1694259	NSA2	NSA2, ribosome biogenesis homolog	-1.984	6.656
+ILMN_1696839			-2.17	7.709
+ILMN_1700674			-1.822	7.005
+ILMN_1701696			-1.582	7.926
+ILMN_1703720	SF3B6	splicing factor 3b subunit 6	-1.584	7.317
+ILMN_1706117			-1.595	6.997
+ILMN_1706326	MRPL33	mitochondrial ribosomal protein L33	-1.743	7.378
+ILMN_1707783	TMA7	translation machinery associated 7 homolog	-1.651	9.651
+ILMN_1711729			-1.838	6.586
+ILMN_1712678	RPS27L	ribosomal protein S27 like	-1.743	7.906
+ILMN_1713482	CWC15	CWC15 spliceosome-associated protein	-1.948	8.734
+ILMN_1718271	MTIF3	mitochondrial translational initiation factor 3	-1.582	9.078
+ILMN_1719032	LSM3	LSM3 homolog, U6 small nuclear RNA and mRNA degradation associated	-2.033	8.806
+ILMN_1720438			-1.815	8.024
+ILMN_1726239	TBCA	tubulin folding cofactor A	-1.626	9.088
+ILMN_1726603	ATP5I	ATP synthase, H+ transporting, mitochondrial Fo complex subunit E	-2.029	8.254
+ILMN_1730487	CALD1	caldesmon 1	-1.555	7.035
+ILMN_1731546	RPL26	ribosomal protein L26	-2.734	7.81
+ILMN_1732328			-1.512	9.515
+ILMN_1735347	MCEE	methylmalonyl-CoA epimerase	-1.564	9.464
+ILMN_1737738	NDUFA12	NADH:ubiquinone oxidoreductase subunit A12	-1.515	7.139
+ILMN_1751258	NDUFA4	NDUFA4, mitochondrial complex associated	-1.511	7.452
+ILMN_1754195	RPL31	ribosomal protein L31	-1.925	10.375
+ILMN_1755115	RPL23	ribosomal protein L23	-1.719	6.146
+ILMN_1756674	ATP5E	ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit	-1.684	10.868
+ILMN_1759453	UQCRB	ubiquinol-cytochrome c reductase binding protein	-1.62	7.219
+ILMN_1763147	NDUFB6	NADH:ubiquinone oxidoreductase subunit B6	-1.606	7.695
+ILMN_1766024	PDCD10	programmed cell death 10	-1.605	7.019
+ILMN_1766851	TMEM126B	transmembrane protein 126B	-1.737	7.793
+ILMN_1768117	RBM25	RNA binding motif protein 25	-1.587	7.485
+ILMN_1772929	ATP5J	ATP synthase, H+ transporting, mitochondrial Fo complex subunit F6	-1.598	7.272
+ILMN_1774823	RPL34	ribosomal protein L34	-2.163	8.129
+ILMN_1775587	STX19	syntaxin 19	-1.716	7.03
+ILMN_1776586	RPL26L1	ribosomal protein L26 like 1	-1.554	6.574
+ILMN_1777378	COMMD6	COMM domain containing 6	-1.776	9.707
+ILMN_1782417			-1.666	8.768
+ILMN_1786658	BOLA3	bolA family member 3	-1.67	7.52
+ILMN_1803775	HSPE1	heat shock protein family E (Hsp10) member 1	-1.686	9.016
+ILMN_1809783	FAM25A	family with sequence similarity 25 member A	-1.883	6.523
+ILMN_1812312	NDUFS4	NADH:ubiquinone oxidoreductase subunit S4	-1.74	10.007
+ILMN_1814011			-1.806	8.832
+ILMN_1857915			-1.66	5.996
+ILMN_2098743	ACOT13	acyl-CoA thioesterase 13	-1.759	11.169
+ILMN_2103295	NSA2	NSA2, ribosome biogenesis homolog	-1.904	7.474
+ILMN_2110532	RPL26L1	ribosomal protein L26 like 1	-1.69	7.325
+ILMN_2119937	NDUFB3	NADH:ubiquinone oxidoreductase subunit B3	-2.058	9.247
+ILMN_2119945	NDUFB3	NADH:ubiquinone oxidoreductase subunit B3	-2.123	9.234
+ILMN_2128128	SHFM1	split hand/foot malformation (ectrodactyly) type 1	-1.603	11.162
+ILMN_2130838	UTP11	UTP11, small subunit processome component homolog (S. cerevisiae)	-1.555	7.68
+ILMN_2145518	TMEM126B	transmembrane protein 126B	-1.666	9.178
+ILMN_2166865	ENY2	ENY2, transcription and export complex 2 subunit	-1.712	10.605
+ILMN_2184049	COX7B	cytochrome c oxidase subunit 7B	-2.442	7.823
+ILMN_2187718	COX17	COX17, cytochrome c oxidase copper chaperone	-1.712	7.961
+ILMN_2189933	RPL36AL	ribosomal protein L36a like	-1.672	8.053
+ILMN_2189936	RPL36AL	ribosomal protein L36a like	-1.712	8.657
+ILMN_2198376	PSMA4	proteasome subunit alpha 4	-1.68	7.801
+ILMN_2200659	SNHG5	small nucleolar RNA host gene 5	-1.943	7.215
+ILMN_2211950			-1.546	6.578
+ILMN_2217809	TMEM126A	transmembrane protein 126A	-1.685	7.577
+ILMN_2224486	C3orf14	chromosome 3 open reading frame 14	-1.552	6.416
+ILMN_2225887	ATP5EP2	ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit pseudogene 2	-1.866	11.265
+ILMN_2228710	PDCD5	programmed cell death 5	-1.641	8.487
+ILMN_2229242	LSM3	LSM3 homolog, U6 small nuclear RNA and mRNA degradation associated	-1.682	8.349
+ILMN_2232166	CCDC90B	coiled-coil domain containing 90B	-1.523	7.866
+ILMN_2234758	SRP14	signal recognition particle 14	-1.644	8.126
+ILMN_2255310	RPS15A	ribosomal protein S15a	-1.702	6.077
+ILMN_2290808	RPL21	ribosomal protein L21	-2.065	6.157
+ILMN_2324056	GNL3	G protein nucleolar 3	-1.57	6.028
+ILMN_2343010	BOLA3	bolA family member 3	-1.735	7.701
+ILMN_2348093	ATP5J	ATP synthase, H+ transporting, mitochondrial Fo complex subunit F6	-1.566	7.059
+ILMN_2369785	SNRPD2	small nuclear ribonucleoprotein D2 polypeptide	-1.546	7.342
+ILMN_2383097	RPL17	ribosomal protein L17	-1.693	10.376
+ILMN_2392717	LARP7	La ribonucleoprotein domain family member 7	-2.042	6.831
+ILMN_2396639	PDLIM7	PDZ and LIM domain 7	-1.572	6.166
+ILMN_2399893	RPS24	ribosomal protein S24	-1.905	7.343
