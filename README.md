@@ -1,53 +1,54 @@
-# Bioinformatics Programming Homeworks — Fall 2024
+# Vitiligo — Computational Biology Project, Fall 2024
 
-> Coursework repository for the **Bioinformatics** course at Sharif University of Technology, Fall 2024.  
+> Course project for the **Computational Biology** course at Sharif University of Technology, Fall 2024.  
 > **Author:** Nasim Javdani · [GitHub](https://github.com/javdaninasim) · [LinkedIn](https://linkedin.com/in/nasim-javdani-810a9932a)
 
 ---
 
 ## Overview
 
-This repository contains three programming homework assignments for the Bioinformatics course, implemented in Python. The assignments cover foundational algorithms in computational biology — from sequence analysis to phylogenetic tree construction.
+This project investigates **Vitiligo**, an autoimmune skin condition characterized by the loss of melanocytes and the depigmentation of skin patches. The work combines a literature-based analysis with computational approaches, including gene expression analysis and biological data processing using R.
 
 ---
 
 ## Repository Structure
 
 ```
-BioInformatics_PHW_Fall_2024/
-├── BioInformatics_PHW_NeighborJoining_Fall_2024/
-├── BioInformatics_PHW_Query_Fall_2024/
-└── BioInformatics_PHW_SequenceAlignment_Fall_2024/
+Bio_Project_Vitiligo_Fall_2024/
+├── Results and Scripts/     # R analysis scripts and generated output figures
+├── Vitiligo Lecture.pptx    # Presentation slides used for the project defense
+└── Vitiligo.pdf             # Final written report
 ```
 
 ---
 
-## Assignments
+## Contents
 
-### 1. Sequence Alignment
-Implementation of classical sequence alignment algorithms used to find the optimal alignment between biological sequences (DNA, RNA, or protein).
+### `Results and Scripts/`
+Contains the R scripts used for data analysis and the corresponding output results. Key analyses may include:
+- Differentially expressed gene (DEG) analysis
+- Pathway enrichment analysis
+- Visualization of expression profiles (heatmaps, volcano plots)
 
-Key topics:
-- **Global Alignment** — Needleman-Wunsch algorithm
-- **Local Alignment** — Smith-Waterman algorithm
-- Scoring matrices (e.g., BLOSUM, PAM)
-- Gap penalties (linear and affine)
+### `Vitiligo Lecture.pptx`
+The lecture/presentation slides summarizing:
+- Disease background and pathology
+- Genetic and immunological factors
+- Computational findings and insights
 
-### 2. Biological Database Query
-Programmatic querying of bioinformatics databases to retrieve, filter, and process biological sequence data.
+### `Vitiligo.pdf`
+The full written report covering:
+- Introduction to Vitiligo (types, epidemiology, pathogenesis)
+- Immune system involvement (T-cell mediated destruction of melanocytes)
+- Genetic risk factors and relevant gene networks
+- Computational analysis methodology and results
+- Conclusions and potential therapeutic targets
 
-Key topics:
-- Interfacing with databases such as NCBI (via Biopython's Entrez module)
-- Parsing FASTA and GenBank formats
-- Filtering and organizing retrieved sequences for downstream analysis
+---
 
-### 3. Neighbor Joining (Phylogenetic Tree Construction)
-Implementation of the **Neighbor Joining (NJ)** algorithm for constructing phylogenetic trees from a distance matrix derived from multiple sequence alignments.
+## Background
 
-Key topics:
-- Computing pairwise distance matrices
-- Iterative tree construction via the NJ method
-- Tree visualization
+Vitiligo affects roughly 1–2% of the global population. It involves a complex interplay of genetic predisposition, oxidative stress, and autoimmune T-cell activity targeting melanocytes. This project explores the molecular underpinnings using bioinformatics tools and publicly available genomic data.
 
 ---
 
@@ -55,33 +56,29 @@ Key topics:
 
 | Tool | Purpose |
 |---|---|
-| Python 3 | Primary language |
-| Biopython | Sequence handling, database access, alignment |
-| NumPy | Numerical operations and matrix computation |
-| Matplotlib | Phylogenetic tree and result visualization |
+| R | Statistical analysis and bioinformatics |
+| Bioconductor packages | Gene expression analysis (e.g., `limma`, `DESeq2`) |
+| ggplot2 | Data visualization |
+| PowerPoint | Presentation |
 
 ---
 
-## How to Run
+## How to Run the Scripts
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/javdaninasim/BioInformatics_PHW_Fall_2024.git
-   cd BioInformatics_PHW_Fall_2024
+1. Install R (≥ 4.0) and RStudio.
+2. Install required packages:
+   ```r
+   install.packages(c("ggplot2", "dplyr"))
+   if (!requireNamespace("BiocManager", quietly = TRUE))
+       install.packages("BiocManager")
+   BiocManager::install(c("limma", "DESeq2", "clusterProfiler"))
    ```
-
-2. Install dependencies:
-   ```bash
-   pip install biopython numpy matplotlib
-   ```
-
-3. Navigate into any assignment folder and run the corresponding Python script or notebook.
+3. Open the scripts in the `Results and Scripts/` folder and run them in order.
 
 ---
 
 ## Course Info
 
-- **Course:** Bioinformatics
+- **Course:** Computational Biology (Bio)
 - **Institution:** Sharif University of Technology, Department of Computer Engineering
-- **Presenter:** Ali Sharifi Zarchi
 - **Semester:** Fall 2024
