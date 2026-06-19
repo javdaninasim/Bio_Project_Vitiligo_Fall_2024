@@ -340,9 +340,6 @@ Biological Processes   Molecular Mechanisms
 | **Project Type** | Transcriptomic analysis + systems biology |
 | **Languages** | R, RMarkdown |
 | **Analysis Type** | Differential expression + pathway enrichment |
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=100&section=footer" width="100%"/>
 </div>
