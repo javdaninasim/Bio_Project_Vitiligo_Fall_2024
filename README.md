@@ -330,7 +330,7 @@ Biological Processes   Molecular Mechanisms
 
 ---
 
-### 📞 Project Information
+### ℹ️ Project Information
 
 | Detail | Information |
 | :--- | :--- |
@@ -340,15 +340,6 @@ Biological Processes   Molecular Mechanisms
 | **Project Type** | Transcriptomic analysis + systems biology |
 | **Languages** | R, RMarkdown |
 | **Analysis Type** | Differential expression + pathway enrichment |
-
----
-
-
-### 📜 Attribution & License
-
-**Author:** Nasim Javdani  
-**GitHub:** [@javdaninasim](https://github.com/javdaninasim)  
-**LinkedIn:** [Nasim Javdani](https://linkedin.com/in/nasim-javdani-810a9932a)  
 
 ---
 
