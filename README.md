@@ -294,17 +294,6 @@ Biological Processes   Molecular Mechanisms
 
 ---
 
-### 🚀 How to Use This Repository
-
-1. **Understand the Disease:** Read `Vitiligo.pdf` for comprehensive background
-2. **Review Presentation:** View `Vitiligo Lecture.pptx` for project overview
-3. **Explore Raw Data:** Check `1 Raw data analysis/` for data quality and normalization
-4. **Examine DEGs:** Open Volcano/MA plots in `2 Significance analysis/` for dysregulated genes
-5. **Investigate Processes:** View GO enrichment plots in `3 Gene Set analyses/`
-6. **Study Pathways:** Analyze Reactome visualizations in `4 Pathway analysis/` subfolders
-
----
-
 ### 📖 Technical Details
 
 **Data Characteristics:**
